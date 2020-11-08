@@ -1,0 +1,28 @@
+{
+  "name": "libkissanime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JambDev/libkissanime.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {
+    "cloudflare-scraper": "^1.0.7",
+    "puppeteer": "^5.4.0"
+  },
+  "keywords": [
+    "kissanime"
+  ],
+  "author": "JambDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JambDev/libkissanime/issues"
+  },
+  "homepage": "https://github.com/JambDev/libkissanime#readme"
+}
